@@ -18,6 +18,5 @@ def countSubstrings(strr: str) -> int:
             e += 1
 
     return count
-
 # print(countSubstrings("aaa")) --> 6
 # print(countSubstrings("racecar")) --> 10
